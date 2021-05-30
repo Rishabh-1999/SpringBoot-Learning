@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-    Welcome Rishabh
+     Welcome ${name}
 </body>
 </html>
